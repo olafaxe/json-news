@@ -196,13 +196,6 @@ body {
   }
   .input-container {
     grid-area: article;
-
-    /* display: flex;
-    flex-direction: column;
-    margin-top: 5px;
-    margin-bottom: 30px;
-    margin-right: 5%;
-    width: 100%; */
   }
 }
 
